@@ -1,14 +1,8 @@
 <div align="center">
-  <img src="https://github.com/mominurOps/mominurOps/blob/main/header.gif" width="850" height="260" alt="Mominur Ops - Red Team Operator">
-  
-  <h1>Hi, I'm <span style="color:#00FF00;">Mominur Ops</span> 👾</h1>
-  <h3><strong>Red Team Operator | Web & Network Pentester | Active Directory Security</strong></h3>
-</div>
-<div align="center">
   <img src="https://github.com/user-attachments/assets/your-cyber-header.gif" width="850" height="250" alt="Red Team Banner">
   
   <h1>Hi, I'm <span style="color:#00FF00;">Mominur Ops</span> 👾</h1>
-  <h3><strong>Red Team Operator | Web Pentester | Active Directory Specialist</strong></h3>
+  <h3><strong>Aspiring Red Teamer | Web & Network Pentester | Active Directory Security (Hands-on)</strong></h3>
   
   <p>
     <img src="https://img.shields.io/badge/CRTA-Certified-00FF00?style=for-the-badge">
@@ -83,8 +77,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/mominurOps"><img src="https://img.shields.io/badge/TryHackMe-FF5722?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://twitter.com/mominur-haque-cyber"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/vipmominurxyz"><img src="https://img.shields.io/badge/TryHackMe-FF5722?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://github.com/mominurOps"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
