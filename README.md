@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://github.com/mominurOps/mominurOps/blob/main/header.gif" width="850" height="260" alt="Mominur Ops - Red Team Operator">
+  
+  <h1>Hi, I'm <span style="color:#00FF00;">Mominur Ops</span> 👾</h1>
+  <h3><strong>Red Team Operator | Web & Network Pentester | Active Directory Security</strong></h3>
+</div>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/your-cyber-header.gif" width="850" height="250" alt="Red Team Banner">
   
   <h1>Hi, I'm <span style="color:#00FF00;">Mominur Ops</span> 👾</h1>
